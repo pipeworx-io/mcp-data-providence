@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-providence",
   "title": "Data Providence",
   "description": "Providence Open Data (data.providenceri.gov) Socrata MCP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/data-providence",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-providence",

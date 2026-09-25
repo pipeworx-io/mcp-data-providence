@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-providence",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Providence Open Data (data.providenceri.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-76bb76c60ac174b971b9c123de7bb1569d78d48d0ef55ec82692f73fd167fbf8",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-2725849a691432a61eccfbc5f14df363b8631a28f01a0ea0e21a87c148c54d2e",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
